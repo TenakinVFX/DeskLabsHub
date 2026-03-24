@@ -3,26 +3,26 @@
     "id": "Editing-Template-1",
     "name": "Video Editing Template 1",
     "appName": "Structura",
-    "description": "Clean dark theme with minimal widget borders and monochrome icons.",
+    "description": "A folder Structure for simple video editing.",
     "downloadUrl": "https://github.com/YOUR_ORG/YOUR_REPO/releases/download/v1.0/dark-minimal.zip",
     "downloadCount": 142,
     "accentColor": "#4a9eff"
   },
   {
     "id": "desktophud-neon-blue",
-    "name": "Neon Blue",
+    "name": "Music Template 1",
     "appName": "Structura",
-    "description": "High-contrast neon blue accent scheme for low-light setups.",
+    "description": "A folder Structure for Music Production",
     "downloadUrl": "https://github.com/YOUR_ORG/YOUR_REPO/releases/download/v1.0/neon-blue.zip",
     "downloadCount": 89,
-    "accentColor": "#2ecc71"
+    "accentColor": "#4a9eff"
   },
   {
     "id": "anotherapp-starter",
-    "name": "Starter Pack",
-    "appName": "AnotherApp",
-    "description": "Recommended defaults for new users — pre-configured layouts and presets.",
+    "name": "Light Mode",
+    "appName": "Lyriq",
+    "description": "Light Mode Theme for Lyriq",
     "downloadUrl": "https://github.com/YOUR_ORG/YOUR_REPO/releases/download/v1.0/starter-pack.zip",
     "downloadCount": 310,
-    "accentColor": "#4a9eff"  }
+    "accentColor": "#2ecc71"  }
 ]
